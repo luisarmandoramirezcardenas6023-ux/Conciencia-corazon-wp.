@@ -21,5 +21,5 @@ El propósito principal de este proyecto fue la creación de un espacio digital 
 * Gestión de Recursos Digitales: Organización de archivos, lecturas y recursos multimedia para el acceso sencillo de los alumnos.
 * Mantenimiento Técnico: Configuración de herramientas esenciales para garantizar la seguridad y el correcto funcionamiento del sitio.
 
-## 🖋️ Colaboración Técnica
+## Colaboración Técnica
 Este proyecto ha sido desarrollado y gestionado por **Luis Armando Ramírez Cárdenas**, estudiante de la Licenciatura en Inteligencia de Negocios en la UABC, como parte de un apoyo técnico continuo para la digitalización de contenidos académicos.
