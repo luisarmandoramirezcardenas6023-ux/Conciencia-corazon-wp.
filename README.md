@@ -23,13 +23,6 @@ La plataforma se divide en cuatro capas de interacción:
 3. **Capa Social:** Integración de Foros y Galerías que humanizan la marca y fomentan la participación.
 4. **Capa de Comunicación:** Módulo de contacto y suscripciones para la gestión de audiencias y consultorías.
 
-## 🌟 Valor Agregado para Reclutadores (Highlights Técnicos)
-1. **Gestión de Proyectos CMS:** Dominio total de WordPress para la creación de arquitecturas de información complejas.
-2. **Personalización Web:** Capacidad de modificar plantillas estándar para adaptarlas a necesidades de marca específicas mediante HTML/CSS.
-3. **Estrategia de Contenidos:** Diseño orientado a la experiencia de usuario (UX) para facilitar la lectura de datos académicos.
-4. **SEO y Posicionamiento:** Optimización de etiquetas y estructura para mejorar la visibilidad de perfiles profesionales.
-5. **Integración Externa:** Habilidad para conectar plataformas de terceros (YouTube, redes sociales) de manera nativa.
-
 ## 📖 Manual de Uso
 Para explorar el proyecto y sus funcionalidades:
 1. **Acceso Principal:** Navegue a la URL `https://concienciaycorazon1.wordpress.com/` para ver la interfaz en vivo.
