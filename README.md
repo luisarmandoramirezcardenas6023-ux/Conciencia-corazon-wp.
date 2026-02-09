@@ -1,6 +1,6 @@
 ## Proyecto Académico: Plataforma Educativa "Conciencia y Corazón" 
 
-Este repositorio documenta el desarrollo y la gestión técnica del sitio web **"Conciencia y Corazón"**, una plataforma diseñada para centralizar recursos académicos y facilitar la difusión de contenidos educativos bajo la supervisión docente.
+Este repositorio documenta el desarrollo y la gestión técnica del sitio web **"Conciencia y Corazón"**, una plataforma diseñada para centralizar recursos académicos y facilitar la difusión de contenidos educativos bajo la supervisión docente. (Servicio Profesional)
 
 ## Descripción del Proyecto
 El propósito principal de este proyecto fue la creación de un espacio digital estructurado en WordPress que sirviera como repositorio y canal de comunicación para materiales de aprendizaje. Se enfocó en la organización lógica de la información para apoyar las actividades académicas y la interacción con los estudiantes.
